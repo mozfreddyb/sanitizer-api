@@ -1,6 +1,18 @@
-# Sanitizer API
+> [!IMPORTANT]
+> The Sanitizer API has been moved to [WHATWG HTML](https://html.spec.whatwg.org/#html-sanitization).
 
-The *Sanitizer API* is a proposed new browser API to bring a safe and
+# Issue Reporting
+If you find an issue with the specification, we encourage you to get involved by filing an issue
+in the [WHATWG HTML issue tracker](https://github.com/whatwg/html/issues).
+
+If you find a browser bug, we encourage you to look at the best practices for bug reporting
+in the individual browser engine.
+
+# Old content for archival purposes only
+
+## Sanitizer API
+
+The *Sanitizer API* is a new browser API to bring a safe and
 easy-to-use capability to sanitize HTML into the web platform.
 
 Status:
